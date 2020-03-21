@@ -1,7 +1,7 @@
-# web-scraping-challenge
-Web scraping coursework for data science bootcamp
+# Mars Data Web Scraper
+Full stack web scraping app that pulls mars data from various sources and rendors a web page.
 
-Contents include:
+## Contents include:
 - Jupyter notebook that scrapes various mars website for data
 - Python file that scrapes various mars website for data
 - App python file that runs web scrape functions and stores data in mongo database
